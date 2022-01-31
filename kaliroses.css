@@ -1,0 +1,82 @@
+
+#audi{
+    color:orange;
+    float: right;
+    font-size:50px;
+    text-align:center ;
+    opacity: 1;
+}
+#header{
+    height: 1%;
+    width: 100%;
+
+}
+[href]{
+    color: lightblue;
+      }
+#toy{
+      height: 150px;
+    }   
+
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:22px;
+    font-weight:normal ;
+    color:white ;
+}
+h1{
+    text-align: center;
+}
+.golo{
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+body{
+    background-color: gray;
+    background-image:url(bavaria.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#jiji{
+    font-size: 70px;
+    font-family:'Times New Roman', Times, serif;
+    color:whitesmoke;
+    text-align: center;
+    top: 60%;
+}
+nav{
+    color:aliceblue;
+    border:solid whitesmoke;
+    width: 100px;
+    border-width: 2px;
+    border-radius: 18px;
+    background-color: black;
+    padding: 10px;
+}
+a:hover{
+    color: purple;
+}
+#hjhj{
+    color: cornsilk;
+}
+#roro{
+    color:yellow;
+    margin-top: 80px;
+    font-size: 25px;
+}
+#roro:hover{
+    color:purple;
+}
+#lola{
+    font-size: 25px;
+    
+}
+label{
+    font-size: 25px;
+}
+#google{
+    font-size: 18px;
+}
